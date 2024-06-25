@@ -1,3 +1,4 @@
 wonderwords
-confluent-kafka==2.0.2
+confluent-kafka==2.3.0
 textblob
+setuptools
